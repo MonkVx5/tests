@@ -1,0 +1,13 @@
+
+*.xml
+*.class
+*.lst
+*.properties
+*.dumpstream
+*.png
+*.gif
+*.html
+*.js
+*.css
+*.jar
+target/surefire-reports/TestSuite.txt
